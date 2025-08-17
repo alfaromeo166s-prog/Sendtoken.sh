@@ -1,0 +1,2 @@
+#!/bin/bash
+spl-token transfer AmEKttmkehpi2iaDnfe5q7SMMW8bVYshJ8Z4zV7rHGdJZz4A 0.000001 23YzWYQ2emXbEfd4rmkeu6oN1aPfSshiavaZyFLMW53P9 --fund-recipient
